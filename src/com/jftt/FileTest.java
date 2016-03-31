@@ -28,7 +28,7 @@ public class FileTest {
 				bw.newLine();
 				bw.flush();
 			}
-			System.out.print("copy success");
+			System.out.print("copy succes1s");
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
