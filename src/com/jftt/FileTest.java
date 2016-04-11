@@ -10,7 +10,7 @@ public class FileTest {
 		BufferedReader br=null;
 		BufferedWriter bw=null;
 		Scanner input=new Scanner(System.in);
-		System.out.println("输入原文件路径：如d:\\First.java");
+		System.out.println("输入事原文件路径：如d:\\First.java");
 		String copyPath=input.next();
 		System.out.println("输入复制的路径：如d:\\copy.java");
 		String newPath=input.next();
