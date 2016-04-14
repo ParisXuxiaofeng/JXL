@@ -36,7 +36,7 @@ public class CopyContent {
 				}
 				
 			}
-			System.out.print("success");
+			System.out.print("successful");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
